@@ -1,0 +1,3 @@
+Implementar un RESTful API que tendrá de nombre Buki
+
+Buki es una aplicación web en la que se puede publicar distintos anuncios
